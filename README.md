@@ -1,8 +1,5 @@
-![Header Image](https://your-image-url.com/header.jpg)
 
 # 👋 Hi there, I'm Nguyen Tin Thanh (@tinthanhtv2014)!
-
-![Profile Views](https://komarev.com/ghpvc/?username=tinthanhtv2014&color=blueviolet&style=flat-square)
 
 ## 👨‍💻 About Me
 
@@ -21,20 +18,21 @@ I'm a passionate web developer with a strong focus on creating robust and scalab
 
 ## 🔭 Projects & Contributions
 
-- **Project 1:** [Project Name](https://github.com/tinthanhtv2014/project1) - Brief description.
-- **Project 2:** [Project Name](https://github.com/tinthanhtv2014/project2) - Brief description.
-- **Open Source Contributions:** [Contribution 1](https://github.com/repo1), [Contribution 2](https://github.com/repo2).
+### Project 1: Online Clothing Store
+An e-commerce platform for selling a variety of clothing items. The project showcases my skills in:
+- **Frontend:** React.js
+- **Backend:** Node.js, ExpressJS
+- **Database:** MySQL, MongoDB
+- **Features:**
+- - User authentication and token-based authentication
+  - Product listing and shopping cart
+  - Payment gateway integration
+  - Admin management for all functionalities, including product, user, and order management
+
 
 ## 📫 How to Reach Me
 
-- **Email:** tinthanhtv2014@example.com
+- **Email:** tinthanhtv2014@gmail.com
 - **LinkedIn:** [Thanh's LinkedIn](https://www.linkedin.com/in/tinthanhtv2014)
 - **Twitter:** [@tinthanhtv2014](https://twitter.com/tinthanhtv2014)
 
-## 😄 Pronouns
-
-He/Him
-
-## ⚡ Fun Fact
-
-I have a knack for capturing stunning photographs and enjoy exploring new places.
