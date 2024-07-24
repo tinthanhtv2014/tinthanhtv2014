@@ -1,6 +1,6 @@
 ![Header Image](https://your-image-url.com/header.jpg)
 
-# 👋 Hi there, I'm Thanh (@tinthanhtv2014)!
+# 👋 Hi there, I'm Nguyen Tin Thanh (@tinthanhtv2014)!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tinthanhtv2014&color=blueviolet&style=flat-square)
 
