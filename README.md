@@ -1,6 +1,9 @@
 
 # 👋 Hi there, I'm Nguyen Tin Thanh (@tinthanhtv2014)!
-
+<ul>
+  <li>Mục 1</li>
+  <li>Mục 2</li>
+</ul>
 ## 👨‍💻 About Me
 
 I'm a passionate web developer with a strong focus on creating robust and scalable applications using **Node.js** and **React.js**. I enjoy tackling challenging problems and continuously learning about new technologies and frameworks.
