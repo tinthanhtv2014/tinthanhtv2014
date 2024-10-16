@@ -1,6 +1,8 @@
 
 # 👋 Hi there, I'm Nguyen Tin Thanh (@tinthanhtv2014)!
+
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" width="880" height="192" />
+
 ## 👨‍💻 About Me
 
 I'm a passionate web developer with a strong focus on creating robust and scalable applications using **Node.js** and **React.js**. I enjoy tackling challenging problems and continuously learning about new technologies and frameworks.
@@ -12,8 +14,8 @@ I'm a passionate web developer with a strong focus on creating robust and scalab
 ## 🚀 Skills
 
 - **Frontend:** React.js, JavaScript, HTML, CSS, Material-UI
-- **Backend:** Node.js, Express.js, RESTful APIs
-- **Database:** MongoDB, MySQL
+- **Backend:** Node.js, Express.js, RESTful APIs, Entity Framework
+- **Database:** MongoDB, MySQL, SQL Server
 - **Tools & Platforms:** Git, Docker, AWS, Netlify, Vercel
 
 ## 🔭 Projects & Contributions
@@ -21,7 +23,7 @@ I'm a passionate web developer with a strong focus on creating robust and scalab
 ### Project 1: Online Clothing Store
 An e-commerce platform for selling a variety of clothing items. The project showcases my skills in:
 - **Frontend:** React.js
-- **Backend:** Node.js, ExpressJS
+- **Backend:** Node.js, ExpressJS, 
 - **Database:** MySQL, MongoDB
 - **Features:**
 - - User authentication and token-based authentication
