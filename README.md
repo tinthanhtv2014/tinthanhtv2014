@@ -17,7 +17,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinthanhtv2014&layout=compact)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/tinthanhtv2014/github-readme-stats)
+
 
 ## 👨‍💻 About Me
 
