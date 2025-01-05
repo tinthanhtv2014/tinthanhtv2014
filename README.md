@@ -2,20 +2,22 @@
 # 👋 Hi there, I'm Nguyen Tin Thanh (@tinthanhtv2014)!
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" width="880" height="192" />
+<div style="display: flex; justify-content: space-evenly;">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=tinthanhtv2014&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=tinthanhtv2014&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=tinthanhtv2014&show_icons=true" />
+  </picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=tinthanhtv2014&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=tinthanhtv2014&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=tinthanhtv2014&show_icons=true" />
-</picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinthanhtv2014&layout=compact" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinthanhtv2014&layout=compact)
 
 
 
