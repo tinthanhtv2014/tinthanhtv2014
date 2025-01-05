@@ -3,7 +3,7 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" width="880" height="192" />
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
-  <picture style="height: 225px;">
+  <picture style="height: 325px;">
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=tinthanhtv2014&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
