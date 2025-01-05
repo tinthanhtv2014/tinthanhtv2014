@@ -6,11 +6,11 @@
   <picture style="height: 325px;">
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=tinthanhtv2014&show_icons=true&theme=synthwave"
-      media="(prefers-color-scheme: dark)"
+      media="(prefers-color-scheme: synthwave)"
     />
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=tinthanhtv2014&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      media="(prefers-color-scheme: synthwave), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=tinthanhtv2014&show_icons=true" style="height: 100%;" />
   </picture>
