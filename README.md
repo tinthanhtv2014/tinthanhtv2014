@@ -15,7 +15,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=tinthanhtv2014&show_icons=true" style="height: 100%;" />
   </picture>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinthanhtv2014&layout=compact" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinthanhtv2014&layout=compact" style="height: 195px;" />
 </div>
 
 
