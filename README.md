@@ -41,6 +41,16 @@ I'm a passionate web developer with a strong focus on creating robust and scalab
 - **Backend:** Node.js, Express.js, RESTful APIs, Entity Framework
 - **Database:** MongoDB, MySQL, SQL Server
 - **Tools & Platforms:** Git, Docker, AWS, Netlify, Vercel
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,net,docker,figma,github,mongodb,postman,py,vscode,visualstudio&perline=14" />
+  </a>
+</p>
+
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🔭 Projects & Contributions
 
