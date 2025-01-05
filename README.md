@@ -43,7 +43,7 @@ I'm a passionate web developer with a strong focus on creating robust and scalab
 - **Tools & Platforms:** Git, Docker, AWS, Netlify, Vercel
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,net,docker,figma,github,mongodb,postman,py,vscode,visualstudio&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cs,css,docker,figma,github,mongodb,postman,py,vscode,visualstudio&perline=14" />
   </a>
 </p>
 
