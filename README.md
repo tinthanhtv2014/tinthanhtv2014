@@ -1,7 +1,7 @@
 
 # 👋 Welcome to my profile!
 <h1 align="center" style="font-weight: 500; color: black;">
-    <img src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+there+!+👋;+I'm+Nguyen+Tin+Thanh+(@tinthanhtv2014)!;+I'm+Backend+Developer+from+VietNam" />
+    <img src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+there+!+👋;+I'm+Nguyen+Tin+Thanh+(@tinthanhtv2014)!;+I'm+Backend+Developer+from+VietNam+🌍" />
 </h1>
 
 
