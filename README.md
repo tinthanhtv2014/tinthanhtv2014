@@ -17,6 +17,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinthanhtv2014&layout=compact)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tinthanhtv2014)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 👨‍💻 About Me
 
 I'm a passionate web developer with a strong focus on creating robust and scalable applications using **Node.js** and **React.js**. I enjoy tackling challenging problems and continuously learning about new technologies and frameworks.
