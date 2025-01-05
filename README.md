@@ -3,6 +3,18 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" width="880" height="192" />
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 ## 👨‍💻 About Me
 
 I'm a passionate web developer with a strong focus on creating robust and scalable applications using **Node.js** and **React.js**. I enjoy tackling challenging problems and continuously learning about new technologies and frameworks.
