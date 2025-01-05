@@ -5,7 +5,7 @@
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
   <picture style="height: 325px;">
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=tinthanhtv2014&show_icons=true&theme=synthwave"
+      srcset="https://github-readme-stats.vercel.app/api?username=tinthanhtv2014&show_icons=true&theme=dracula"
       media="(prefers-color-scheme: synthwave)"
     />
     <source
