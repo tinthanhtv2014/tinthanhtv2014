@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Nguyen Tin Thanh (@tinthanhtv2014)!
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+!+👋;+I'm+Nguyen+Tin+Thanh+(@tinthanhtv2014)!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+there+!+👋;+I'm+Nguyen+Tin+Thanh+(@tinthanhtv2014)!;" />
 </h1>
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" width="880" height="192" />
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
