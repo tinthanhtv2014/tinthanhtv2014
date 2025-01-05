@@ -2,8 +2,8 @@
 # 👋 Hi there, I'm Nguyen Tin Thanh (@tinthanhtv2014)!
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" width="880" height="192" />
-<div style="display: flex; justify-content: space-evenly;">
-  <picture>
+<div style="display: flex; justify-content: space-evenly; align-items: center;">
+  <picture style="height: 200px;">
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=tinthanhtv2014&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -12,11 +12,12 @@
       srcset="https://github-readme-stats.vercel.app/api?username=tinthanhtv2014&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=tinthanhtv2014&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tinthanhtv2014&show_icons=true" style="height: 100%;" />
   </picture>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinthanhtv2014&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinthanhtv2014&layout=compact" style="height: 200px;" />
 </div>
+
 
 
 
